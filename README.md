@@ -16,7 +16,7 @@
 
 - CONNECT WITH ME  
   <a href="https://www.linkedin.com/in/sai-praneetha-kanvapuri/">
-  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/Linkedin.png" alt="Linkedin logo" width="0" height="50">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/Linkedin.png" alt="Linkedin logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/kanvapuri_sai_praneetha/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/leetcode.png" alt="Leetcode logo" width="50" height="50">
