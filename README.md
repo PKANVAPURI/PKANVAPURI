@@ -6,3 +6,5 @@
 - 📫 How to reach me: pkanvapuri@gmail.com
                       [LinkedIn Profile](https://www.linkedin.com/in/sai-praneetha-kanvapuri/)
 - 😄 Pronouns: She/Her
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PKANVAPURI)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/PKANVAPURI/github-profile-trophy))
