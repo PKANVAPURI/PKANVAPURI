@@ -1,4 +1,5 @@
 ### Hi 👋, I'm Kanvapuri Sai Praneetha
+![Hello](https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/icon.png)
 
 - 🔭 I’m currently an undergrad student at VNR VJIET, Hyderabad, India.
 - 🌱 I’m keen to learn and explore new things.
