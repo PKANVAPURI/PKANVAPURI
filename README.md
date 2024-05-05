@@ -1,19 +1,19 @@
 ### Hi 👋, I'm Kanvapuri Sai Praneetha
 ![Hello](https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/icon.png)
 
-- 🔭 I’m currently an undergrad student at VNR VJIET, Hyderabad, India.
-- 🌱 I’m keen to learn and explore new things.
-- 👯 I’m looking to collaborate on projects related to web development and software development.
-- 📫 How to reach me: pkanvapuri@gmail.com  
-- 😄 Pronouns: She/Her
+-> 🔭 I’m currently an undergrad student at VNR VJIET, Hyderabad, India.
+-> 🌱 I’m keen to learn and explore new things.
+-> 👯 I’m looking to collaborate on projects related to web development and software development.
+-> 📫 How to reach me: pkanvapuri@gmail.com  
+-> 😄 Pronouns: She/Her
 
   
 ![](https://komarev.com/ghpvc/?username=PKANVAPURI&color=9361e8)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=PKANVAPURI)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/PKANVAPURI/github-profile-trophy))
 
-- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/PKANVAPURI?tab=repositories)
+-> 👨‍💻 All of my projects are available at [GITHUB](https://github.com/PKANVAPURI?tab=repositories)
 
-- CONNECT WITH ME  
+-> CONNECT WITH ME  
   <a href="https://www.linkedin.com/in/sai-praneetha-kanvapuri/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/Linkedin.png" alt="Linkedin logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@
   <a href="https://www.codechef.com/users/praneethak">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/codechef.jpeg" alt="Codechef logo" width="50" height="50">
   </a>
-- SKILLS  
+-> SKILLS  
   <a href="https://devdocs.io/c/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/C.png" alt="C Logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,7 +38,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://docs.python.org/3/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/python.jpeg" alt=" logo" width="50" height="50">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>  
   <a href="https://html.com/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/html.png" alt=" logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,8 +56,13 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/mongodb.png" alt=" logo" width="50" height="50">
+  </a>  
+  <a href="https://www.mysql.com/">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/sql.png" alt=" logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  https://www.mysql.com/
+  <a href="https://git-scm.com/">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/git.png" alt=" logo" width="50" height="50">
+  </a>
   
   
   
