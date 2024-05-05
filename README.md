@@ -13,4 +13,5 @@
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/PKANVAPURI?tab=repositories)
 
 - CONNECT WITH ME  
-  
+  [![LINKEDIN]([![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com))](https://www.linkedin.com/in/sai-praneetha-kanvapuri/)
+
