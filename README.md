@@ -27,7 +27,7 @@
   <a href="https://www.codechef.com/users/praneethak">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/codechef.jpeg" alt="Codechef logo" width="50" height="50">
   </a>  
-- SKILLS
+- SKILLS  
   programming lanuages:  
   <a href="https://devdocs.io/c/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/C.png" alt="C Logo" width="50" height="50">
@@ -40,7 +40,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://docs.python.org/3/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/python.jpeg" alt=" logo" width="50" height="50">
-  </a>
+  </a>  
   web development:  
   <a href="https://html.com/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/html.png" alt=" logo" width="50" height="50">
@@ -59,7 +59,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/mongodb.png" alt=" logo" width="50" height="50">
-  </a>
+  </a>  
   others:  
   <a href="https://www.mysql.com/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/sql.png" alt=" logo" width="50" height="50">
