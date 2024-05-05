@@ -14,25 +14,28 @@
 
 - CONNECT WITH ME  
   <a href="https://www.linkedin.com/in/sai-praneetha-kanvapuri/">
-  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/Linkedin.png" alt="Linkedin logo" width="50" height="50">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/Linkedin.png" alt="Linkedin logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/kanvapuri_sai_praneetha/">
-  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/leetcode.png" alt="Leetcode logo" width="50" height="50">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/leetcode.png" alt="Leetcode logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/pkanvapuri">
-  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/hackerrank.png" alt="Hackerrank logo" width="50" height="50">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/hackerrank.png" alt="Hackerrank logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/praneethak">
-  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/codechef.jpeg" alt="Codechef logo" width="50" height="50">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/codechef.jpeg" alt="Codechef logo" width="50" height="50">
   </a>
 - SKILLS:
   <a href="https://devdocs.io/c/">
-  <img src="" alt="C Logo" width="50" height="50">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/C.png" alt="C Logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://devdocs.io/cpp/">
-  <img src="" alt=" logo" width="50" height="50">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/c%2B%2B.png" alt=" logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://docs.oracle.com/en/java/">
-  <img src="" alt=" logo" width="50" height="50">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/java.png" alt=" logo" width="50" height="50">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.python.org/3/">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/java.png" alt=" logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
