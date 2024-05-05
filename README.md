@@ -25,7 +25,14 @@
   <a href="https://www.codechef.com/users/praneethak">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/codechef.jpeg" alt="Codechef logo" width="50" height="50">
   </a>
-
+- SKILLS:
+  <a href="https://devdocs.io/c/">
+  <img src="" alt="C Logo" width="50" height="50">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://devdocs.io/cpp/">
+  <img src="" alt=" logo" width="50" height="50">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.oracle.com/en/java/">
+  <img src="" alt=" logo" width="50" height="50">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-
-
