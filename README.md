@@ -25,7 +25,7 @@
   <a href="https://www.codechef.com/users/praneethak">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/codechef.jpeg" alt="Codechef logo" width="50" height="50">
   </a>
-- SKILLS:
+- SKILLS  
   <a href="https://devdocs.io/c/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/C.png" alt="C Logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,6 +36,31 @@
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/java.png" alt=" logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://docs.python.org/3/">
-  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/java.png" alt=" logo" width="50" height="50">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/python.jpeg" alt=" logo" width="50" height="50">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://html.com/">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/html.png" alt=" logo" width="50" height="50">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/css.png" alt=" logo" width="50" height="50">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://getbootstrap.com/">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/js.png" alt=" logo" width="50" height="50">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://devdocs.io/javascript/">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/js.png" alt=" logo" width="50" height="50">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev/">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/react.png" alt=" logo" width="50" height="50">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/mongodb.png" alt=" logo" width="50" height="50">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  https://www.mysql.com/
+  
+  
+  
+  
+  
+  
   
