@@ -28,7 +28,7 @@
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/codechef.jpeg" alt="Codechef logo" width="50" height="50">
   </a>  
 - SKILLS  
-  programming lanuages:  
+  'Programming Lanuages'  
   <a href="https://devdocs.io/c/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/C.png" alt="C Logo" width="30" height="30">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,7 +41,7 @@
   <a href="https://docs.python.org/3/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/python.jpeg" alt=" logo" width="30" height="30">
   </a>  
-  web development:  
+  'Web development'  
   <a href="https://html.com/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/html.png" alt=" logo" width="30" height="30">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@
   <a href="https://www.mongodb.com/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/mongodb.png" alt=" logo" width="30" height="30">
   </a>  
-  others:  
+  'Others'  
   <a href="https://www.mysql.com/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/sql.png" alt=" logo" width="30" height="30">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
