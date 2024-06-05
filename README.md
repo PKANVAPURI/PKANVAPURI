@@ -49,7 +49,7 @@
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/css.png" alt=" logo" width="30" height="30">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com/">
-  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/js.png" alt=" logo" width="30" height="30">
+  <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/bootstrap.jpeg" alt=" logo" width="30" height="30">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://devdocs.io/javascript/">
   <img src="https://github.com/PKANVAPURI/PKANVAPURI/blob/main/images/js.png" alt=" logo" width="30" height="30">
